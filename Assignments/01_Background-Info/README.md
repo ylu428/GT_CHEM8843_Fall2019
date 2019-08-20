@@ -22,5 +22,5 @@ these tools?
 
 6. What are your expectations for the instructors and TA for this course?
 
-
+### **Due Date: Tuesday, 8/27**
 
