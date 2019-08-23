@@ -39,5 +39,3 @@ the tools and comcepts taught.
 I expect to deliver content clearly, answer questions precisely and in an accessible
 manner, and to get students excited about data science & scientific computing
 
-### **Due Date: Tuesday, 8/27**
-
